@@ -5,7 +5,7 @@
 ## 📡 Technical Expertise: 
 - Hardware & Mechanics: CAD(Fusion 360 / Solidworks), 3D printing
 - Electronics & PCBs: PCB Design (KiCAD), Soldering & Wire Harnessing, Power Electronics, Microcontrollers (ESP32, STM32, Arduino)
-- Software & Control: C++, Python, Matlab / Simulink, Simscape, ROS2, PID control, Inverse Kinematics, Ansys, OpenFoam, KiCAD, 
+- Software & Control: C++, Python, Matlab / Simulink, Simscape, ROS2, PID control, Inverse Kinematics, Ansys, OpenFoam, KiCAD 
 - Tools & Methodologies: Git/GitHub, System Architecture, BOM Management
 
 ----
