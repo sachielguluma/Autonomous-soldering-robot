@@ -3,9 +3,9 @@
 ** Final year Aerospace Engineering student at the University of the West of England ** | Focus on embedded system, hardware design, and control
 
 ## 📡 Technical Expertise: 
-- Hardware & Mechanics: CAD(Fusion 360 / Solidworks), 3D printing
+- Hardware & Mechanics: CAD(Fusion 360 / Solidworks), 3D printing, Ansys
 - Electronics & PCBs: PCB Design (KiCAD), Soldering & Wire Harnessing, Power Electronics, Microcontrollers (ESP32, STM32, Arduino)
-- Software & Control: C++, Python, Matlab / Simulink, Simscape, ROS2, PID control, Inverse Kinematics, Ansys, OpenFoam, KiCAD 
+- Software & Control: C++, Python, Matlab / Simulink, Simscape, ROS2, PID control, Inverse Kinematics, OpenFoam 
 - Tools & Methodologies: Git/GitHub, System Architecture, BOM Management
 
 ----
